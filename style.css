@@ -1,0 +1,33 @@
+.mybackground {
+  background-color: #fff;
+}
+
+#mydiv {
+  width: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  padding: 15px;
+  background-color: #b7cece;
+}
+
+#myparagraph, myinput, myinput2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#mybutton {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#myimage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
